@@ -1,0 +1,56 @@
+﻿@{
+    ViewBag.Title = "Tic Tac Toe Game";
+}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+
+<link href="~/css/TicTacToe.css" rel="stylesheet" />
+<script src="~/js/TicTacToe.js"></script>
+
+<audio id="gameAudio" style="display:none" controls="controls" autoplay="1" loop>
+    <source src="~/audio/smurfCat.mp3" type="audio/mpeg" />
+</audio>
+<script src="~/js/Audio.js"></script>
+
+
+<div class="centered-container">
+<h1 class="pixel-font">
+    <span>T</span>
+    <span>I</span>
+    <span>C</span>
+    <span>-</span>
+    <span>T</span>
+    <span>A</span>
+    <span>C</span>
+    <span>-</span>
+    <span>T</span>
+    <span>O</span>
+    <span>E</span>
+
+</h1>
+
+<div id="game-board">
+    @for (int row = 0; row < 3; row++)
+    {
+        <div class="row">
+            @for (int col = 0; col < 3; col++)
+            {
+                <div class="cell" id="cell-@row-@col" data-row="@row" data-col="@col"></div>
+            }
+        </div> 
+    }
+</div>
+
+<div class="turnMessage" id="message">Player X's Turn</div>
+
+<canvas id="confetti"></canvas>
+<button id="button" hidden>Celebration</button>
+
+    <script src="https://cdn.jsdelivr.net/npm/js-confetti@latest/dist/js-confetti.browser.js"></script>
+    <script src="~/js/Confetti.js"></script>
+
+    <button id="restart-button">Restart</button>
+
+
+</div>

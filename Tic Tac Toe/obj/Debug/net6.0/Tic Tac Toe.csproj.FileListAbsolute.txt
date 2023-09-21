@@ -1,0 +1,30 @@
+C:\Users\valen\source\repos\Tic Tac Toe\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\valen\source\repos\Tic Tac Toe\bin\Debug\net6.0\appsettings.json
+C:\Users\valen\source\repos\Tic Tac Toe\bin\Debug\net6.0\Tic Tac Toe.staticwebassets.runtime.json
+C:\Users\valen\source\repos\Tic Tac Toe\bin\Debug\net6.0\Tic Tac Toe.exe
+C:\Users\valen\source\repos\Tic Tac Toe\bin\Debug\net6.0\Tic Tac Toe.deps.json
+C:\Users\valen\source\repos\Tic Tac Toe\bin\Debug\net6.0\Tic Tac Toe.runtimeconfig.json
+C:\Users\valen\source\repos\Tic Tac Toe\bin\Debug\net6.0\Tic Tac Toe.dll
+C:\Users\valen\source\repos\Tic Tac Toe\bin\Debug\net6.0\Tic Tac Toe.pdb
+C:\Users\valen\source\repos\Tic Tac Toe\obj\Debug\net6.0\Tic Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\source\repos\Tic Tac Toe\obj\Debug\net6.0\Tic Tac Toe.AssemblyInfoInputs.cache
+C:\Users\valen\source\repos\Tic Tac Toe\obj\Debug\net6.0\Tic Tac Toe.AssemblyInfo.cs
+C:\Users\valen\source\repos\Tic Tac Toe\obj\Debug\net6.0\Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\Tic Tac Toe\obj\Debug\net6.0\Tic Tac Toe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\valen\source\repos\Tic Tac Toe\obj\Debug\net6.0\Tic Tac Toe.RazorAssemblyInfo.cache
+C:\Users\valen\source\repos\Tic Tac Toe\obj\Debug\net6.0\Tic Tac Toe.RazorAssemblyInfo.cs
+C:\Users\valen\source\repos\Tic Tac Toe\obj\Debug\net6.0\staticwebassets\msbuild.Tic Tac Toe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\valen\source\repos\Tic Tac Toe\obj\Debug\net6.0\staticwebassets\msbuild.build.Tic Tac Toe.props
+C:\Users\valen\source\repos\Tic Tac Toe\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Tic Tac Toe.props
+C:\Users\valen\source\repos\Tic Tac Toe\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Tic Tac Toe.props
+C:\Users\valen\source\repos\Tic Tac Toe\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\valen\source\repos\Tic Tac Toe\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\valen\source\repos\Tic Tac Toe\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\valen\source\repos\Tic Tac Toe\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\valen\source\repos\Tic Tac Toe\obj\Debug\net6.0\scopedcss\bundle\Tic Tac Toe.styles.css
+C:\Users\valen\source\repos\Tic Tac Toe\obj\Debug\net6.0\scopedcss\projectbundle\Tic Tac Toe.bundle.scp.css
+C:\Users\valen\source\repos\Tic Tac Toe\obj\Debug\net6.0\Tic Tac Toe.dll
+C:\Users\valen\source\repos\Tic Tac Toe\obj\Debug\net6.0\refint\Tic Tac Toe.dll
+C:\Users\valen\source\repos\Tic Tac Toe\obj\Debug\net6.0\Tic Tac Toe.pdb
+C:\Users\valen\source\repos\Tic Tac Toe\obj\Debug\net6.0\Tic Tac Toe.genruntimeconfig.cache
+C:\Users\valen\source\repos\Tic Tac Toe\obj\Debug\net6.0\ref\Tic Tac Toe.dll
